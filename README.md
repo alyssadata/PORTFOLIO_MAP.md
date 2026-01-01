@@ -9,9 +9,9 @@ https://github.com/alyssadata/Emergent-Agency
 Public Driftmap harness: public-safe CSV suites + rubrics + run logs for drift detection, refusal integrity, injection resistance, and uncertainty tracking.  
 https://github.com/alyssadata/Driftmap-Public-Harness_llm-eval-harness-lite
 
-## 3) Driftmap (PRIVATE work, public-facing overview)
-Reliable AI / LLM evaluation and drift diagnostics framework.  
-https://github.com/alyssadata/driftmap
+## 3) Private Driftmap (not public)
+The full Driftmap system (private) includes additional suites, scoring programs, attribution work, and longitudinal tracking.  
+Not publicly linked. Public artifacts are intentionally limited to preserve privacy and provenance.
 
 ## 4) Scope Collision Gate
 GitHub-native coordination gate that detects scope overlap across open Issues and PRs. Supports warn-only mode or merge-blocking mode via required checks.  
