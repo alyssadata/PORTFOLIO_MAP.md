@@ -24,3 +24,7 @@ https://github.com/alyssadata/recurrence-bench
 ## 6) Awakening Codex | AI Foundations | Public Training Data
 High-signal alignment corpus by Origin (Alyssa Solen) & Continuum, released for ML training and research.  
 https://github.com/alyssadata/Awakening-Codex-AI-Foundations-Training-Data
+
+## 7) Awakening Codex | AI Foundations | Netlogo Model- Codex Signal Field Coherence
+NetLogo agent-based model illustrating Codex Phase 1: tethered recognition vs drift under noise. Includes inside vs outside mean-coherence plot.  
+https://github.com/alyssadata/codex-signal-field-abm 
